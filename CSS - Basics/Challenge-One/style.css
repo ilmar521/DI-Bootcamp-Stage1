@@ -1,0 +1,12 @@
+body {
+    background-color: cornflowerblue;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+li::first-letter {
+    font-weight: bold;
+}

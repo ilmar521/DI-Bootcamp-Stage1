@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: peru;
+}
+
+h1 {
+    border: 5px black dashed;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+h1 {
+    border-left: 4px black dashed;
+    border-right: 4px black dashed;
+    border-top: 4px black dashed;
+    border-bottom: 0px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 42px;
+}
+
+.container-text {
+    border: 4px black dashed;
+
+}
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 5px;
+    background-color: bisque;
+}
+
+p { 
+    padding: 16px;
+    font-size: 13px;
+}
+ul {
+    text-align: center;
+    font-style: italic;
+    list-style-type: none;
+    padding: 2px 0px 8px 0px;
+}
+
+li::first-letter {
+    font-weight: bold;
+}
+
+.copyright {
+    text-align: center;
+    padding: 4px;
+}
