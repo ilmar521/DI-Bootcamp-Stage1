@@ -1,3 +1,20 @@
-body {
-   list-style-type: square;
+.main {
+   background-color: #F49696; 
+   font-family: Verdana, DejaVu Sans, sans-serif; 
+
+}
+
+#num_2 {
+   font-size: 34px;
+   color: blue;
+}
+
+.except {
+   font-size: 24px;
+}
+
+#num_4 {
+   font-size: 24px;
+   font-weight: bold;
+   background-color: #A9EF84;
 }
