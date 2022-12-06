@@ -21,6 +21,7 @@ h1 {
     height: 150px; 
     border-radius: 200px 200px 0 0; 
     margin-bottom: 10px;
+    transition: 1s ease-in-out;
 } 
 
 .eyes {
@@ -28,8 +29,7 @@ h1 {
 }
 
 .head:hover {
-    width: 300px;
-    transition: 1s ease-in-out;
+    width: 300px; 
 }
 
 .upper_body { 
