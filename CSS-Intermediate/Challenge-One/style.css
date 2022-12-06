@@ -1,0 +1,33 @@
+
+body {
+    background-color: #364371;
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+#nav {
+    background-color: #B0CFFF;
+    float: left;
+    padding: 10px;
+    width: 150px;
+    height: 420px;
+}
+
+#content {
+    background-color: #5B7FBD;
+    float: left;
+    padding: 10px;
+    height: 420px;
+    width: 480px;
+    text-align: center;  
+}
+
+.copyright {
+    background-color: #364371;
+    float: left;
+}
+
+#content ul {
+    list-style-type: none;
+}	
