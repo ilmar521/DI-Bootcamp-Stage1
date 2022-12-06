@@ -1,0 +1,30 @@
+
+.left-pane, .right-pane, .footer {
+    border: 2px solid black;
+}
+.left-pane {
+    background: red;
+    margin-right: 30px;
+    width: 25%;
+}
+.right-pane {
+    background: lightblue;
+    width: 75%;
+}
+
+div{
+    height: 100px;
+}
+
+.container {
+    margin: 20px 0px;
+    display: flex;
+    margin-right: 50px;
+}
+
+
+.footer {
+    background: yellow;
+    margin-right: 50px;
+}
+
