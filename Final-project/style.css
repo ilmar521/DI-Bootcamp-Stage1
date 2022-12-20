@@ -496,7 +496,7 @@ aside.clients img {
 }
 section#contact {
 	background-color: #222;
-	background-image: url(../../images/map-image.png);
+	background-image: url(img/map-image.png);
 	background-position: center;
 	background-repeat: no-repeat
 }
@@ -675,45 +675,4 @@ img::-moz-selection{background:0 0}
 
 body{
     webkit-tap-highlight-color:#f05f40
-}
-
-
-
-/*
-.nav-link:hover {
-    color: #5afaed;
-    text-shadow: 0 0 8px #5afaed;
-}
-
-.nav-link.active {
-    --bs-navbar-active-color: #5afaed;
-    transition: 1s ease;
-    font-size: 20px;
-}
-
-.img-foto {
-    box-shadow: 0 0 8px 8px white inset;
-    background-size: auto;
-}
-
-#About {
-    margin-top: 0px;
-    background-color: #DEDEDE;   
-}
-
-.card {
-    margin: 5px;
-}
-
-a {
-    text-decoration: none;
-}
-
-#Portfolio {
-  
-}
-
-#Contacts {
-    margin-top: 20px 0px;
-    background-color: #DEDEDE;  
 }
